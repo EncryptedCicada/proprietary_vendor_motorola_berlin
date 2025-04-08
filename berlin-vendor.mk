@@ -3212,7 +3212,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/berlin/proprietary/vendor/firmware/stmicro-csot-fts3639-21120227-de141027-berlin.ftb:$(TARGET_COPY_OUT_VENDOR)/firmware/stmicro-csot-fts3639-21120227-de141027-berlin.ftb \
     vendor/motorola/berlin/proprietary/vendor/firmware/stmicro-visionox-fts3639-21072312-0009200c-berlin.ftb:$(TARGET_COPY_OUT_VENDOR)/firmware/stmicro-visionox-fts3639-21072312-0009200c-berlin.ftb \
     vendor/motorola/berlin/proprietary/vendor/firmware/visionox_stm_fts_production_limits.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/visionox_stm_fts_production_limits.csv \
-		vendor/motorola/dubai/proprietary/vendor/lib/soundfx/libspeakerbundle.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libspeakerbundle.so \
     vendor/motorola/berlin/proprietary/vendor/lib64/camera/com.qti.sensormodule.mot_berlin_ov08a10_qtech.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mot_berlin_ov08a10_qtech.bin \
     vendor/motorola/berlin/proprietary/vendor/lib64/camera/com.qti.sensormodule.mot_berlin_ov16a10_qtech.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mot_berlin_ov16a10_qtech.bin \
     vendor/motorola/berlin/proprietary/vendor/lib64/camera/com.qti.sensormodule.mot_berlin_ov32b40_qtech.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.mot_berlin_ov32b40_qtech.bin \
